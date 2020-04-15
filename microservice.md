@@ -82,7 +82,7 @@ Após download, executar: `tar xfz ~/Downloads/eclipse-inst-linux64.tar.gz`
 
 Execute: 
 
-`sudo add-apt-repository ppa:mmk2410/intellij-idea-community`
+`sudo add-apt-com.handson.beers.repository ppa:mmk2410/intellij-idea-community`
 
 `sudo apt update`
 

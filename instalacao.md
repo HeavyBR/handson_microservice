@@ -64,7 +64,7 @@ sub   rsa4096 2017-02-22 [S]`
 
 Após realizado estes passos, basta obter a versão desejada do docker através do repositório configurado nos passos anteriores. Neste caso está sendo utilizado a última versão estável.
 
-`sudo add-apt-repository \
+`sudo add-apt-com.handson.beers.repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    (lsb_release -cs) \
    stable"`
@@ -153,7 +153,7 @@ Após download, executar na pasta onde está o arquivo baixado: `tar xfz ~/Downl
 
 Execute: 
 
-`sudo add-apt-repository ppa:mmk2410/intellij-idea-community`
+`sudo add-apt-com.handson.beers.repository ppa:mmk2410/intellij-idea-community`
 
 `sudo apt update`
 

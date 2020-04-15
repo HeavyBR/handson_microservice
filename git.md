@@ -169,7 +169,7 @@ Após o comando acima ser executado, você deverá ir ao seu repositório `forka
 
 Podemos verificar que existe a opção de criarmos um `Pull Request` pela própria interface do GitHub. O próprio GitHub sugere que você crie um PR (Pull Request):
 ![image](https://user-images.githubusercontent.com/18057391/79187069-b4ac4300-7df1-11ea-8b1a-1206791af542.png)
-Clique em `Compare & pull request` para iniciar a escrita da sua proposta de alteração (Pull Request).
+Clique em `Compare & pull com.handson.beers.request` para iniciar a escrita da sua proposta de alteração (Pull Request).
 
 Ao clicar será exibido uma página como a seguir pedindo para que seja dado um título e uma descrição do seu Pull Request.
 
